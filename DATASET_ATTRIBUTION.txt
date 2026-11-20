@@ -1,0 +1,13 @@
+Training data: SMS Spam Collection
+Creators: Tiago A. Almeida and José María Gómez Hidalgo (2011)
+Repository: UCI Machine Learning Repository, dataset 228
+Dataset page: https://archive.ics.uci.edu/dataset/228/sms%2Bspam%2Bcollection
+DOI: https://doi.org/10.24432/C5CC84
+
+The corpus is distributed by the UCI Machine Learning Repository. The UCI
+dataset record identifies the data under the Creative Commons Attribution 4.0
+International license (CC BY 4.0). Attribution is retained here and in the
+report. The supplied SMSSpamCollection file is the original tab-separated
+message/label file from the UCI download.
+
+Labels: ham = non-spam (assignment output 0); spam = spam (assignment output 1).
