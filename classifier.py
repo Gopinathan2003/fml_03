@@ -11,7 +11,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent
 TRAINING_FILE = ROOT / "data" / "SMSSpamCollection"
-TEST_DIR = Path.cwd() / "test"
+TEST_DIR = ROOT / "test"
 ALPHA = 1.0
 
 
